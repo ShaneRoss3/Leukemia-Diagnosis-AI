@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1yzpbxBGI_BjTa7yj1HCIo452B5njJTAE?usp=sharing
 Leukemia Diagnosis AI
 This project applies deep learning to classify leukemia status based on medical data. Built using Python, TensorFlow, and scikit-learn, the model preprocesses the dataset, applies feature scaling, and trains a neural network to achieve 85% accuracy.
 
